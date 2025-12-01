@@ -5,3 +5,4 @@ bitsandbytes
 peft
 datasets
 sentencepiece
+python-dotenv
