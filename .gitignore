@@ -24,3 +24,4 @@ __pycache__/
 *.pyo
 *.pyd
 *.pdb
+phi3_supertf_lora/
