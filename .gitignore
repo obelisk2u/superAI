@@ -26,3 +26,4 @@ __pycache__/
 *.pdb
 twitch-chat-viewer/
 data/
+phi3_supertf_lora/
